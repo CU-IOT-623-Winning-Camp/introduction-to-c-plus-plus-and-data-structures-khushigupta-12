@@ -3,8 +3,6 @@
  [![Contributors][contributors-shield]][contributors-url]
  [![Forks][forks-shield]][forks-url]
  [![Stargazers][stars-shield]][stars-url]
- [![Issues][issues-shield]][issues-url]
- [![License][license-shield]][license-url]
 
  [contributors-shield]: https://img.shields.io/github/contributors/watermelon1024/EEW.svg?style=for-the-badge
  [contributors-url]: https://github.com/watermelon1024/EEW/graphs/contributors
@@ -14,12 +12,6 @@
 
  [stars-shield]: https://img.shields.io/github/stars/watermelon1024/EEW.svg?style=for-the-badge
  [stars-url]: https://github.com/watermelon1024/EEW/stargazers
-
- [issues-shield]: https://img.shields.io/github/issues/watermelon1024/EEW.svg?style=for-the-badge
- [issues-url]: https://github.com/watermelon1024/EEW/issues
-
- [license-shield]: https://img.shields.io/github/license/watermelon1024/EEW.svg?style=for-the-badge
- [license-url]: https://github.com/watermelon1024/EEW/blob/main/LICENSE
 
  <div align="center">
   <a href="https://github.com/watermelon1024/EEW">
