@@ -1,26 +1,6 @@
-# EEW
 
- [![Contributors][contributors-shield]][contributors-url]
- [![Forks][forks-shield]][forks-url]
- [![Stargazers][stars-shield]][stars-url]
 
- [contributors-shield]: https://img.shields.io/github/contributors/watermelon1024/EEW.svg?style=for-the-badge
- [contributors-url]: https://github.com/watermelon1024/EEW/graphs/contributors
 
- [forks-shield]: https://img.shields.io/github/forks/watermelon1024/EEW.svg?style=for-the-badge
- [forks-url]: https://github.com/watermelon1024/EEW/network/members
-
- [stars-shield]: https://img.shields.io/github/stars/watermelon1024/EEW.svg?style=for-the-badge
- [stars-url]: https://github.com/watermelon1024/EEW/stargazers
-
- <div align="center">
-  <a href="https://github.com/watermelon1024/EEW">
-   <img src="/asset/logo.png" alt="EEW" width="30%"/>
-  </a>
- </div>
-
- [English](/README.md) 
- ---
 
  A simple, powerful, free, and easily extensible multi-platform earthquake early warning notification system!
 
