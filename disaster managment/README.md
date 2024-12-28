@@ -27,8 +27,7 @@
   </a>
  </div>
 
- [English](/README.md) | [繁體中文](/docs/zh-TW/README.md)
-
+ [English](/README.md) 
  ---
 
  A simple, powerful, free, and easily extensible multi-platform earthquake early warning notification system!
@@ -120,18 +119,4 @@
  ```
 
 
-# Bug Report & Issues
 
-If you encounter any issues or have questions about the project, please feel free to open an issue on the [GitHub Issues page][issues-url].
-
-1. Search through the existing issues to avoid duplicates.
-2. Provide a clear and concise description of the problem, including steps to reproduce it.
-3. Include any relevant logs or error messages.
-4. Mention the environment (e.g., Python version, operating system) and configurations you are using.
-
-Your feedback helps us improve the system for everyone!
-
-
-# Custom Notification Client
-If you haven't found an existing client that suits your needs, you can create a custom notification client for yourself!\
-See also: [development documentation](/docs/en-US/dev/notification.md).
