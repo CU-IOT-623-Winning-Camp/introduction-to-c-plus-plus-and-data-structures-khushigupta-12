@@ -6,12 +6,6 @@
 
  ---
 
-> [!IMPORTANT]
-> This project uses the API provided by [ExpTech](https://exptech.com.tw). Please adhere to their [Terms of Service](https://exptech.com.tw/tos).
-
-> [!NOTE]
-> This project is currently in beta, and may undergo significant changes.
-
 # Installing
  **Python 3.8 or higher is required**
 
