@@ -2,7 +2,7 @@
 
 
 
- A simple, powerful, free, and easily extensible multi-platform earthquake early warning notification system!
+ A simple, powerful, free, and easily extensible multi-platform disaster early warning notification system!
 
  ---
 
